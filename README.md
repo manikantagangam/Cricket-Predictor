@@ -5,4 +5,5 @@ Cricket Predictor is a machine learning project that predicts the winning probab
 ## Features
 
 _Match Data_: The project uses the matches.csv dataset, which contains information about IPL matches such as teams, venue, toss winner, and winner.
+
 _Delivery Data_: The deliveries.csv dataset is also utilized, providing ball-by-ball information like runs scored, wickets taken, and other key statistics.
